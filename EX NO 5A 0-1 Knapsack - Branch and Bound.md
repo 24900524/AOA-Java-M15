@@ -167,5 +167,4 @@ output:
 ```
 
 ## Result:
-
 The program successfully solved 0/1 Knapsack problem using branch & bound and output is verified.
