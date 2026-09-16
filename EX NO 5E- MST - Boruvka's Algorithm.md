@@ -148,5 +148,4 @@ Total weight of MST: 19
 ```
 
 ## Result:
-
 The program successfully implemented and the expected output is verified.
